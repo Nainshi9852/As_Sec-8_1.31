@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\bin\Debug\QuickSortEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\bin\Debug\QuickSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\bin\Debug\QuickSortEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\obj\Debug\QuickSortEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\obj\Debug\QuickSortEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\obj\Debug\QuickSortEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\obj\Debug\QuickSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\QuickSortEx\QuickSortEx\obj\Debug\QuickSortEx.pdb
